@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Visual Studio Code
+.vscode/
+
+# Unit Testing
+.pytest_cache/
+
+# Log files
+*.log
+logs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+Pipfile.lock
+
+# Packaging / Distribution
+build/
+dist/
+*.spec
+
+# Secrets and API-Keys
+*.key
